@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: paw
+my:
+  custom:
+    property: Halo boss application properties
